@@ -1,0 +1,33 @@
+/* * {
+  color: blue;
+} */
+body {
+  background-image: url(/cf8211d7-0814-45d6-90af-303d19f20101.jpg);
+}
+h1 {
+  color: crimson;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+div {
+  color: rgb(65, 7, 241);
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 1;
+  background-color: rgb(214, 253, 41);
+}
+div.chucmung {
+  color: rgb(231, 110, 11);
+}
+#so1 {
+  color: blueviolet;
+  background-color: rgb(150, 160, 160);
+}
+.demo {
+  color: palevioletred;
+}
+.demo.demo2 {
+  color: aqua;
+}
